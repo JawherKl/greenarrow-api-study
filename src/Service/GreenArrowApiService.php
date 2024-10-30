@@ -13,9 +13,9 @@ class GreenArrowApiService
     public function __construct(HttpClientInterface $client)
     {
         $this->client = $client;
-        $this->baseUrl = 'http://your_domain.com/ga/api/v3/eng/';
+        $this->baseUrl = 'http://mta.key-performance-group.com/ga/api/v3/eng/';
         $this->authHeader = [
-            'Authorization' => 'Basic ' . base64_encode('your_user:your_password'),
+            'Authorization' => 'Basic ' . base64_encode('dir-tech@hub-score.com:SQ4CW2*bh2q#!PAyu%NUP#*'),
             'Content-type' => 'application/json',
         ];
     }
