@@ -12,7 +12,6 @@ The objective of this project is to develop a comprehensive understanding of Gre
 - **GreenArrow API Credentials** (username and password)
 
 ## Installation
-
 1. Clone the repository:
     ```bash
     git clone https://github.com/JawherKl/greenarrow-api-study.git
@@ -48,7 +47,6 @@ The objective of this project is to develop a comprehensive understanding of Gre
     ```
 
 ## Usage
-
 ### Available Endpoints
 
 The project includes API endpoints to retrieve and manage GreenArrow's mailing domain services data:
