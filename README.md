@@ -90,5 +90,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License.
 
 ### Tips:
+
 - Update `your-username` in the git URL if you intend to publish this to GitHub.
 - Customize the `GREENARROW_API_URL` if your GreenArrow instance URL differs.
