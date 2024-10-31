@@ -1,5 +1,4 @@
 # GreenArrow API Study Project
-
 This project is built with Symfony to study and interact with GreenArrow's mailing domain services API. The project includes services and controllers for exploring and testing all available GreenArrow API endpoints. 
 
 ## Project Overview
@@ -16,7 +15,6 @@ The objective of this project is to develop a comprehensive understanding of Gre
 ## Installation
 
 1. Clone the repository:
-
     ```bash
     git clone https://github.com/JawherKl/greenarrow-api-study.git
     cd greenarrow-api-study
