@@ -60,9 +60,7 @@ The project includes API endpoints to retrieve and manage GreenArrow's mailing d
 Each endpoint connects with the GreenArrow API through a service layer that manages the API calls and responses.
 
 ### Example Request
-
 To fetch DKIM keys, make a GET request to:
-
 ```plaintext
 http://localhost:8000/greenarrow/dkim_keys
 ```
