@@ -6,7 +6,6 @@ This project is built with Symfony to study and interact with GreenArrow's maili
 The objective of this project is to develop a comprehensive understanding of GreenArrow's API, specifically focusing on mailing domain services, including DKIM keys management, domain monitoring, and more. 
 
 ## Prerequisites
-
 - **PHP** 8.1 or higher
 - **Composer** for dependency management
 - **Symfony** CLI (optional for easier project management)
